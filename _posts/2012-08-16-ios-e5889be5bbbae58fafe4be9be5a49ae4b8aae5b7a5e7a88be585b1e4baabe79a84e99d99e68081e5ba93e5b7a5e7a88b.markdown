@@ -1,0 +1,12 @@
+---
+author: huji0624
+comments: true
+date: 2012-08-16 11:56:51+00:00
+layout: post
+slug: ios-%e5%88%9b%e5%bb%ba%e5%8f%af%e4%be%9b%e5%a4%9a%e4%b8%aa%e5%b7%a5%e7%a8%8b%e5%85%b1%e4%ba%ab%e7%9a%84%e9%9d%99%e6%80%81%e5%ba%93%e5%b7%a5%e7%a8%8b
+title: iOS 创建可供多个工程共享的静态库工程
+wordpress_id: 552
+categories:
+- iOS
+---
+

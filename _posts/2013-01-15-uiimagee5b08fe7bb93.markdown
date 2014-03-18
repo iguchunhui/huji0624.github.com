@@ -1,0 +1,12 @@
+---
+author: huji0624
+comments: true
+date: 2013-01-15 06:47:49+00:00
+layout: post
+slug: uiimage%e5%b0%8f%e7%bb%93
+title: UIImage小结
+wordpress_id: 645
+categories:
+- iOS
+---
+

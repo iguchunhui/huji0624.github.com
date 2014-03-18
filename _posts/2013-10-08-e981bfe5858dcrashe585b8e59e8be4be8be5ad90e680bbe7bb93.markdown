@@ -1,0 +1,12 @@
+---
+author: huji0624
+comments: true
+date: 2013-10-08 10:41:36+00:00
+layout: post
+slug: '%e9%81%bf%e5%85%8dcrash%e5%85%b8%e5%9e%8b%e4%be%8b%e5%ad%90%e6%80%bb%e7%bb%93'
+title: 避免crash典型例子总结
+wordpress_id: 708
+categories:
+- iOS
+---
+

@@ -1,0 +1,12 @@
+---
+author: huji0624
+comments: true
+date: 2012-04-12 15:58:58+00:00
+layout: post
+slug: dijkstra-%e6%9c%80%e7%9f%ad%e8%b7%af%e5%be%84%e7%ae%97%e6%b3%95
+title: Dijkstra 最短路径算法
+wordpress_id: 434
+categories:
+- 算法
+---
+

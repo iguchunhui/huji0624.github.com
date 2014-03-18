@@ -1,0 +1,19 @@
+---
+author: huji0624
+comments: true
+date: 2012-08-31 17:12:04+00:00
+layout: post
+slug: got-a-git
+title: Got a git
+wordpress_id: 567
+categories:
+- Util
+---
+
+Hey guys.Today I create my github account and pushed my first commite to github.
+
+I am a iOS and Android developer.I have heard git and github a lot.But I have never used any of these.Recently I realized as a programmer,I should not be so shut off.So I decide to be open to the internet and keep pace with other programmers in the world.So I came up with the github,I decide to share my code and maybe some other interestring stuff.I hope I can make some interesting friends.
+
+I create my own personal Xcode project to put some Objective-c code I often use.I am going to share some Utils or Widget I wrote for iOS.I hope during the time I complete my own personal lib,I can learn something amazing.In another aspect, if these code can help somebody else.I would be very pleased.
+
+here is my github page: [github.com/huji0624](http://github.com/huji0624)
