@@ -1,0 +1,11 @@
+---
+ author: huji
+ comments: true
+ date: 2014-05-22 20:25:31+00:00
+ layout: post
+ slug: bx
+ title: bx
+ categories:
+ - bx
+ ---
+ content
