@@ -1,3 +1,7 @@
+if [ $# != "2" ] ;then
+	echo "sh genPost.sh title category"
+	exit 1
+fi
 dstr=`date +%Y-%m-%d`
 fn=$dstr'-'$1'.markdown'
 content=`sh echopc.sh huji $1 $2`

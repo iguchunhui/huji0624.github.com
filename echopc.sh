@@ -4,16 +4,17 @@ if [[ $# != "3" ]]; then
 	exit 1
 fi
 
-echo '---\\n'
-echo "author: $1"'\\n'
-echo 'comments: true\\n'
+ct='---\\n'
+ct=$ct"author: $1"'\\n'
+ct=$ct'comments: true\\n'
 dstr=`date +%Y-%m-%d\ %H:%M:%S+00:00`
-echo 'date: '$dstr'\\n'
-echo 'layout: post\\n'
-echo "slug: $2"'\\n'
-echo "title: $2"'\\n'
-echo 'categories:\\n'
-echo "- $3"'\\n'
-echo '---\\n'
-echo 'content'
+ct=$ct'date: '$dstr'\\n'
+ct=$ct'layout: post\\n'
+ct=$ct"slug: $2"'\\n'
+ct=$ct"title: $2"'\\n'
+ct=$ct'categories:\\n'
+ct=$ct"- $3"'\\n'
+ct=$ct'---\\n'
+ct=$ct'content'
+echo $ct
 exit 0
