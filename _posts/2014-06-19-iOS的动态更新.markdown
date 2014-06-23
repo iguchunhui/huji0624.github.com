@@ -1,0 +1,11 @@
+---
+author: huji
+comments: true
+date: 2014-06-19 10:56:47+00:00
+layout: post
+slug: iOS的动态更新
+title: iOS的动态更新
+categories:
+- iOS
+---
+content
