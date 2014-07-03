@@ -25,6 +25,6 @@ categories:
 
 <a href="https://itunes.apple.com/cn/app/jimoveon/id892680882?mt=8">AppStore下载地址（或者在appstore中搜索jimoveon）</a>
 
-<a href="https://portal.qiniu.com/bucket/resource?bucket=hujigame#1">android直接下载地址</a>
+<a href="http://hujigame.qiniudn.com/LuckyHuFirstGame-android.apk">android直接下载地址</a>
 
 <a href="https://play.google.com/store/apps/details?id=com.luckyhu.game">googleplay下载地址(需翻墙)</a>
