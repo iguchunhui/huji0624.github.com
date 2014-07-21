@@ -4,7 +4,7 @@ if [ $# != "2" ] ;then
 fi
 dstr=`date +%Y-%m-%d`
 fn=$dstr'-'$1'.markdown'
-content=`sh echopc.sh huji $1 $2`
+content=`sh echopc.sh huji "$1" "$2"`
 if [[ $? == "0" ]]; then
 	#statements
 	echo $content
