@@ -12,13 +12,13 @@ categories:
 
 我简单地写了一个Button监听点击事件，然后把它加入到cclayer中：
 
-//	cocos2d::ui::Button *bt = cocos2d::ui::Button::create("play.png");
+    //	cocos2d::ui::Button *bt = cocos2d::ui::Button::create("play.png");
 	cocos2d::ui::Button *bt = cocos2d::ui::Button::create();
 	bt->ignoreContentAdaptWithSize(false);
     bt->setSize(Size(100,50));
     bt->setTitleFontSize(40);
     bt->setTitleText("testButton");
-//    bt->addTouchEventListener(CC_CALLBACK_2(HelloWorld::buttonClick, this));  //std::bind
+    //    bt->addTouchEventListener(CC_CALLBACK_2(HelloWorld::buttonClick, this));  //std::bind
     bt->addTouchEventListener([](cocos2d::Ref *pSender, cocos2d::ui::Widget::TouchEventType type){
         log("lambda");
     });
