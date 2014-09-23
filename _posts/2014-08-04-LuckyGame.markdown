@@ -10,11 +10,11 @@ categories:
 ---
 ---------------------最新作品-------------------------
 =======
-## LuckyDot ##
+## Lucky Dot ##
 <img src="/images/luckydotplay.png"/>
 
 
-<a href="https://itunes.apple.com/us/app/lucky-dot/id921452105?mt=8">AppStore下载地址（或者在appstore中搜索jimoveon）</a>
+<a href="https://itunes.apple.com/us/app/lucky-dot/id921452105?mt=8">AppStore下载地址</a>
 
 <a href="http://hujigame.qiniudn.com/LuckyDot.apk">android直接下载地址</a>
 
