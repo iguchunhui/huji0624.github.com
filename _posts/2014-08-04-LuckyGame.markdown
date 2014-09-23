@@ -8,4 +8,29 @@ title: LuckyGame
 categories:
 - game
 ---
-LuckyGame 即将上线，敬请期待.
+---------------------最新作品-------------------------
+=======
+## LuckyDot ##
+<img src="/images/luckydotplay.png"/>
+
+
+<a href="https://itunes.apple.com/us/app/lucky-dot/id921452105?mt=8">AppStore下载地址（或者在appstore中搜索jimoveon）</a>
+
+<a href="http://hujigame.qiniudn.com/LuckyDot.apk">android直接下载地址</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.dttd">googleplay下载地址(需翻墙)</a>
+
+
+
+
+---------------------历史作品-------------------------
+=======
+## JiMoveOn ##
+<img src="/images/jimoveonplay.png"/>
+
+
+<a href="https://itunes.apple.com/cn/app/jimoveon/id892680882?mt=8">AppStore下载地址（或者在appstore中搜索jimoveon）</a>
+
+<a href="http://hujigame.qiniudn.com/LuckyHuFirstGame-android.apk">android直接下载地址</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.luckyhu.game">googleplay下载地址(需翻墙)</a>
