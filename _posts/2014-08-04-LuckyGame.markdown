@@ -10,7 +10,7 @@ categories:
 ---
 ---------------------最新作品-------------------------
 =======
-## Lucky Dot ##
+## Lucky Swap Puzzle ##
 <img src="/images/luckypuzzle.png"/>
 
 
