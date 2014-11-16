@@ -8,7 +8,21 @@ title: LuckyGame
 categories:
 - game
 ---
----------------------最新作品-------------------------
+---------------------历史作品-------------------------
+=======
+## Lu Banana ##
+<img src="/images/ldz.png"/>
+
+
+<a href="https://itunes.apple.com/us/app/lu-banana/id940059743?mt=8">AppStore下载地址</a>
+
+<a href="http://hujigame.qiniudn.com/Lu_Banana.apk">android直接下载地址</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.flyingbanana">googleplay下载地址(需翻墙)</a>
+
+
+
+---------------------历史作品-------------------------
 =======
 ## Lucky Swap Puzzle ##
 <img src="/images/luckypuzzle.png"/>
