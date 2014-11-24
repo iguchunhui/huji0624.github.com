@@ -14,11 +14,11 @@ categories:
 <img src="/images/ldz.png"/>
 
 
-<a href="https://itunes.apple.com/us/app/lu-banana/id940059743?mt=8">AppStore下载地址</a>
+<a href="https://itunes.apple.com/us/app/lu-banana/id940059743?mt=8"><img src="/images/AppStore.png"/></a>
 
-<a href="http://hujigame.qiniudn.com/Lu_Banana.apk">android直接下载地址</a>
+<a href="http://hujigame.qiniudn.com/Lu_Banana.apk"><img src="/images/Android.png"/></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.lhgame.flyingbanana">googleplay下载地址(需翻墙)</a>
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.flyingbanana"><img src="/images/GooglePlay.png"/></a>
 
 
 
@@ -28,13 +28,11 @@ categories:
 <img src="/images/luckypuzzle.png"/>
 
 
-<a href="https://itunes.apple.com/us/app/lucky-swap-puzzle/id937114279?mt=8">AppStore下载地址</a>
+<a href="https://itunes.apple.com/us/app/lucky-swap-puzzle/id937114279?mt=8"><img src="/images/AppStore.png"/></a>
 
-<a href="http://hujigame.qiniudn.com/LuckyPuzzle.apk">android直接下载地址</a>
+<a href="http://hujigame.qiniudn.com/LuckyPuzzle.apk"><img src="/images/Android.png"/></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.lhgame.luckypuzzle">googleplay下载地址(需翻墙)</a>
-
-
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.luckypuzzle"><img src="/images/GooglePlay.png"/></a>
 
 ---------------------历史作品-------------------------
 =======
@@ -42,11 +40,11 @@ categories:
 <img src="/images/luckydotplay.png"/>
 
 
-<a href="https://itunes.apple.com/us/app/lucky-dot/id921452105?mt=8">AppStore下载地址</a>
+<a href="https://itunes.apple.com/us/app/lucky-dot/id921452105?mt=8"><img src="/images/AppStore.png"/></a>
 
-<a href="http://hujigame.qiniudn.com/LuckyDot.apk">android直接下载地址</a>
+<a href="http://hujigame.qiniudn.com/LuckyDot.apk"><img src="/images/Android.png"/></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.lhgame.dttd">googleplay下载地址(需翻墙)</a>
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.dttd"><img src="/images/GooglePlay.png"/></a>
 
 
 
@@ -57,8 +55,8 @@ categories:
 <img src="/images/jimoveonplay.png"/>
 
 
-<a href="https://itunes.apple.com/cn/app/jimoveon/id892680882?mt=8">AppStore下载地址（或者在appstore中搜索jimoveon）</a>
+<a href="https://itunes.apple.com/cn/app/jimoveon/id892680882?mt=8"><img src="/images/AppStore.png"/></a>
 
-<a href="http://hujigame.qiniudn.com/LuckyHuFirstGame-android.apk">android直接下载地址</a>
+<a href="http://hujigame.qiniudn.com/LuckyHuFirstGame-android.apk"><img src="/images/Android.png"/></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.luckyhu.game">googleplay下载地址(需翻墙)</a>
+<a href="https://play.google.com/store/apps/details?id=com.luckyhu.game"><img src="/images/GooglePlay.png"/></a>
