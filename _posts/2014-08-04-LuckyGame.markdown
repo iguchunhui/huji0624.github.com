@@ -8,6 +8,21 @@ title: LuckyGame
 categories:
 - game
 ---
+
+---------------------历史作品-------------------------
+=======
+## TapDiff ##
+<img src="/images/tapdiff.png"/>
+
+
+<a href="https://itunes.apple.com/us/app/tapdiff/id945356045?mt=8"><img src="/images/AppStore.png"/></a>
+
+<a href="http://hujigame.qiniudn.com/TapDiff.apk"><img src="/images/Android.png"/></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.lhgame.lhtapdiff"><img src="/images/GooglePlay.png"/></a>
+
+
+
 ---------------------历史作品-------------------------
 =======
 ## Lu Banana ##
